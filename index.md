@@ -5,15 +5,21 @@ title: About Kapil
 
 
 Hello, My name is Kapil Chaudhary. I live in Mathura, a beautiful city in India. I'm passionate about maths and occasionally coding.
-I currently work for <a href="//chegg.com" target="_blank">Chegg Inc.</a> and i love whatever i do. 
+
+I currently work for <a href="https://en.m.wikipedia.org/wiki/Chegg" target="_blank">Chegg Inc.</a> and i love whatever i do. 
 
 <figure>
   <img alt="Kapil Chaudhary" src="/me.png" />
 </figure>
 
-#### Education
 
 
+## Education
+
+I did basic schooling in UP board followed by secondary and senior secondary in CBSE board school at Mathura. I did graduation in bachelors with honours in mathematics from university of delhi south campus and Master in mathematics from university of delhi north campus.
+
+
+## 
 
 Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
 

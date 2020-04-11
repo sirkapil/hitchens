@@ -1,6 +1,15 @@
 ---
 layout: post
+title: About Kapil
 ---
+
+
+Hello, My name is Kapil Chaudhary. I live in Mathura, a beautiful city in India. I'm passionate about maths and occasionally coding.
+
+I currently work for <a href="//chegg.com" target="_blank">Chegg Inc.</a> and i love whatever i do. 
+
+
+## Education
 
 Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
 

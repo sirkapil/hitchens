@@ -17,26 +17,28 @@ I currently work for <a href="https://en.m.wikipedia.org/wiki/Chegg" target="_bl
 
 
 
+<br><br>
+
+
+#### ＊✿ ~ **Education** ~ ＊✿ 
 <hr />
 
-
-＊✿ ~ **Education** ~ ＊✿ 
-
-  * Basic schooling from state board in hometown
+         * Basic schooling from state board in hometown
   
-  * Completed secondary and Senior secondary from CBSE board school in hometown
+         * Completed secondary and Senior secondary from CBSE board school in hometown
   
-  * Graduated in bachelor's with honours in mathematics from university of delhi south campus 
-  * Completed master's in mathematics from university of delhi north campus.
+         * Graduated in bachelors with honours in mathematics from university of delhi south campus 
+         * Completed masters in mathematics from university of delhi north campus.
 
 
 
-＊✿ ~ **Exams Qualified** ~ ＊✿
+##### ＊✿ ~ **Exams Qualified** ~ ＊✿
+<hr />
 
-   > CSIR JRF     Dec 2019
-   > IIT GATE         2019     
-   > UGC NET     June 2018 
-   > IIT JAM          2017     
-   > DU PG            2017      
+        * CSIR JRF     Dec 2019
+        * IIT GATE         2019     
+        * UGC NET     June 2018 
+        * IIT JAM          2017     
+        * DU PG            2017      
 
 

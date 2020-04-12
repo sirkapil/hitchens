@@ -14,7 +14,9 @@ I currently work for <a href="https://en.m.wikipedia.org/wiki/Chegg" target="_bl
 
 
 
- ** ＊✿ ~ Education ~ ＊✿ **
+
+
+＊✿ ~ **Education** ~ ＊✿ 
 
   * Basic schooling from state board in hometown
   
@@ -25,13 +27,13 @@ I currently work for <a href="https://en.m.wikipedia.org/wiki/Chegg" target="_bl
 
 
 
- ** ＊✿ ~ Exams Qualified ~ ＊✿**
+＊✿ ~ ** Exams Qualified ** ~ ＊✿
 
-   * CSIR JRF     Dec 2019
-   * IIT GATE         2019     
-   * UGC NET     June 2018 
-   * IIT JAM          2017     
-   * DU PG            2017      
+   > CSIR JRF     Dec 2019
+   > IIT GATE         2019     
+   > UGC NET     June 2018 
+   > IIT JAM          2017     
+   > DU PG            2017      
 
 
 

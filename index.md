@@ -20,8 +20,7 @@ I currently work for <a href="https://en.m.wikipedia.org/wiki/Chegg" target="_bl
 <br><br>
 
 
-#### ＊✿ ~ **Education** ~ ＊✿ 
-<hr />
+##### ＊✿~ **Education** ~＊✿ 
 
          * Basic schooling from state board in hometown
   
@@ -31,9 +30,10 @@ I currently work for <a href="https://en.m.wikipedia.org/wiki/Chegg" target="_bl
          * Completed masters in mathematics from university of delhi north campus.
 
 
+<br>
 
-##### ＊✿ ~ **Exams Qualified** ~ ＊✿
-<hr />
+##### ＊✿~ **Exams Qualified** ~＊✿
+
 
         * CSIR JRF     Dec 2019
         * IIT GATE         2019     

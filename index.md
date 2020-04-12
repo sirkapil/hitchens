@@ -37,7 +37,7 @@ I currently work for <a href="https://en.m.wikipedia.org/wiki/Chegg" target="_bl
 
 
     * CSIR JRF     Dec 2019
-    *  GATE         2019     
+    * GATE             2019     
     * UGC NET     June 2018 
     * IIT JAM          2017     
     * DU PG            2017      

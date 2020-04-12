@@ -32,10 +32,10 @@ I currently work for <a href="https://en.m.wikipedia.org/wiki/Chegg" target="_bl
 
 ##### ＊✿ **Exams Qualified** ＊✿
 <ul>
- <li>CSIR JRF     Dec 2019</li>
- <li> GATE             2019 </li> 
- <li> UGC NET     June 2018 </li>
- <li> IIT JAM          2017  </li>   
- <li> DU PG            2017  </li>    
+ <li><a href="https://csirhrdg.res.in/Home/Index/1/Default/1246/60" target="_blank">CSIR JRF</a>     [Dec,2019]</li>
+ <li><a href="https://en.m.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering" target="_blank">IIT GATE</a>             [2019] </li> 
+ <li> <a href="https://nta.ac.in/Csirexam" target="_blank">UGC NET</a>     [June,2018] </li>
+ <li> <a href="https://en.m.wikipedia.org/wiki/Joint_Admission_Test_for_M.Sc." target="_blank">IIT JAM</a>   [2017]  </li>   
+ <li> <a href="http://du.ac.in/du/index.php?page=admissions" target="_blank">DU PG</a>            [2017]  </li>    
 </ul>
 

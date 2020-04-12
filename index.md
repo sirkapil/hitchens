@@ -14,12 +14,21 @@ I currently work for <a href="https://en.m.wikipedia.org/wiki/Chegg" target="_bl
 
 
 
-## Education
+* ### Education
 
-I did basic schooling in UP board followed by secondary and senior secondary in CBSE board school at Mathura. I did graduation in bachelors with honours in mathematics from university of delhi south campus and Master in mathematics from university of delhi north campus.
+> Graduated in bachelor's with honours in mathematics from university of delhi south campus 
+> Completed master's in mathematics from university of delhi north campus.
 
 
-## 
+
+* ### Honours and Exams Qualified
+
+
+| CSIR JRF |  Dec 2019 |
+| IIT GATE |  2019     |
+| UGC NET  | June 2018 |
+| IIT JAM  |  2017     |
+| DU PG    |  2017     |
 
 Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
 

@@ -32,10 +32,17 @@ I currently work for <a href="https://en.m.wikipedia.org/wiki/Chegg" target="_bl
 
 ##### ＊✿ **Exams Qualified** ＊✿
 <ul>
- <li><a href="https://csirhrdg.res.in/Home/Index/1/Default/1246/60" target="_blank">CSIR JRF</a>     [Dec,2019]</li>
- <li><a href="https://en.m.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering" target="_blank">IIT GATE</a>             [2019] </li> 
- <li> <a href="https://nta.ac.in/Csirexam" target="_blank">UGC NET</a>     [June,2018] </li>
- <li> <a href="https://en.m.wikipedia.org/wiki/Joint_Admission_Test_for_M.Sc." target="_blank">IIT JAM</a>   [2017]  </li>   
- <li> <a href="http://du.ac.in/du/index.php?page=admissions" target="_blank">DU PG</a>            [2017]  </li>    
+ <li><a href="https://csirhrdg.res.in/Home/Index/1/Default/1246/60" target="_blank">CSIR JRF</a>     (Dec, 2019)</li>
+ <li><a href="https://en.m.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering" target="_blank">IIT GATE</a>             (2019) </li> 
+ <li> <a href="https://nta.ac.in/Csirexam" target="_blank">UGC NET</a>     (June, 2018) </li>
+ <li> <a href="https://en.m.wikipedia.org/wiki/Joint_Admission_Test_for_M.Sc." target="_blank">IIT JAM</a>   (2017)  </li>   
+ <li> <a href="http://du.ac.in/du/index.php?page=admissions" target="_blank">DU PG</a>            (2017)  </li>    
 </ul>
 
+<br>
+
+##### ＊✿ **Favorite** ＊✿
+
+Spotify artist :  @Neffex
+Music :  Kiss the Rain @Yiruma
+Roasting youtuber :  @Carryminati

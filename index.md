@@ -47,7 +47,7 @@ I currently work for <a href="https://en.m.wikipedia.org/wiki/Chegg" target="_bl
 <ul>
 <li>Spotify artists :  @Neffex and @Ritviz </li>
 <li> Music :  Kiss the Rain @Yiruma </li>
-<li> Roasting youtuber :  @Duhan and @Carryminati </li>
+<li> Roasting youtuber :  [@Duhan](https://m.youtube.com/channel/UCheaweRtxybz4jrCLXw-n7Q) and [@Carryminati](https://m.youtube.com/user/AddictedA1) </li>
 <li> PMCO assaulter : Entity Jonathan </li>
 
 </ul>

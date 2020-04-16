@@ -41,8 +41,9 @@ I currently work for <a href="https://en.m.wikipedia.org/wiki/Chegg" target="_bl
 
 <br>
 
-##### ＊✿ **What i love** ＊✿
+##### ＊✿ **What's my favorite** ＊✿
 
           * Spotify artists :  @Neffex and @Ritviz
           * Music :  Kiss the Rain @Yiruma
-          * Roasting youtuber :  @Carryminati
+          * Roasting youtuber :  @Duhan and @Carryminati
+          * PMCO assaulter : Entity Jonathan

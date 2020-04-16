@@ -41,8 +41,8 @@ I currently work for <a href="https://en.m.wikipedia.org/wiki/Chegg" target="_bl
 
 <br>
 
-##### ＊✿ **Favorite** ＊✿
+##### ＊✿ **What i love** ＊✿
 
-Spotify artist :  @Neffex
-Music :  Kiss the Rain @Yiruma
-Roasting youtuber :  @Carryminati
+          * Spotify artists :  @Neffex and @Ritviz
+          * Music :  Kiss the Rain @Yiruma
+          * Roasting youtuber :  @Carryminati

@@ -43,7 +43,10 @@ I currently work for <a href="https://en.m.wikipedia.org/wiki/Chegg" target="_bl
 
 ##### ＊✿ **What's my favorite** ＊✿
 
-          * Spotify artists :  @Neffex and @Ritviz
-          * Music :  Kiss the Rain @Yiruma
-          * Roasting youtuber :  @Duhan and @Carryminati
-          * PMCO assaulter : Entity Jonathan
+          <ul><li>Spotify artists :  @Neffex and @Ritviz </li>
+          <li> Music :  Kiss the Rain @Yiruma </li>
+         <li> Roasting youtuber :  @Duhan and @Carryminati </li>
+          <li> PMCO assaulter : Entity Jonathan </li>
+          <li></li>
+
+</ul>

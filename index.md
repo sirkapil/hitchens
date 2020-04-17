@@ -27,10 +27,7 @@ I currently work for <a href="https://en.m.wikipedia.org/wiki/Chegg" target="_bl
   <li> Graduated in bachelors with honours in mathematics from university of delhi south campus</li>
   <li> Completed masters in mathematics from university of delhi north campus.
 </li>
-</ul>
-<br>
-
-##### ＊✿ **Exams Qualified** ＊✿
+ <li> Exams Qualified </li>
 <ul>
  <li><a href="https://csirhrdg.res.in/Home/Index/1/Default/1246/60" target="_blank">CSIR JRF</a>     (Dec, 2019)</li>
  <li><a href="https://en.m.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering" target="_blank">IIT GATE</a>             (2019) </li> 
@@ -39,15 +36,16 @@ I currently work for <a href="https://en.m.wikipedia.org/wiki/Chegg" target="_bl
  <li> <a href="http://du.ac.in/du/index.php?page=admissions" target="_blank">DU PG</a>            (2017)  </li>    
 </ul>
 
+</ul>
+
 <br>
 
-##### ＊✿ **What's my favorite** ＊✿
+##### ＊✿ ** My Favorite** ＊✿
 
           
 <ul>
-<li>Spotify artists : <a href="https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6?si=PdMImgOPQxaMKfMnqt_jvA" target="_blank"> @Neffex</a> and  <a href="https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb?si=b__t86NvQIKs1lH1Zq1taQ" target="_blank"> @Ritviz</a></li>
+<li>Spotify artists : <a href="https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6?si=PdMImgOPQxaMKfMnqt_jvA" target="_blank"> @Neffex</a> ,  <a href="https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb?si=b__t86NvQIKs1lH1Zq1taQ" target="_blank"> @Ritviz</a></li>
 <li> Music :  Kiss the Rain @Yiruma </li>
-<li> Roasting youtuber :  <a href="https://m.youtube.com/channel/UCheaweRtxybz4jrCLXw-n7Q" target="_blank">@Duhan</a> and <a href="https://m.youtube.com/user/AddictedA1" target="_blank">@CarryMinati</a> </li>
-<li> PMCO assaulter : Entity Jonathan </li>
+<li> Roasting artist :  <a href="https://m.youtube.com/channel/UCheaweRtxybz4jrCLXw-n7Q" target="_blank">@Duhan</a> and <a href="https://m.youtube.com/user/AddictedA1" target="_blank">@CarryMinati</a> </li>
 
 </ul>

@@ -27,8 +27,7 @@ I currently work for <a href="https://en.m.wikipedia.org/wiki/Chegg" target="_bl
   <li> Graduated in bachelors with honours in mathematics from university of delhi south campus</li>
   <li> Completed masters in mathematics from university of delhi north campus.
 </li>
- <li> <b> Exams Qualified: </b> </li><ul><li><a href="https://csirhrdg.res.in/Home/Index/1/Default/1246/60" target="_blank">CSIR JRF</a>     (Dec, 2019)</li><li><a href="https://en.m.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering" target="_blank">IIT GATE</a>             (2019) </li><li> <a href="https://nta.ac.in/Csirexam" target="_blank">UGC NET</a>     (June, 2018) </li><li> <a href="https://en.m.wikipedia.org/wiki/Joint_Admission_Test_for_M.Sc." target="_blank">IIT JAM</a>   (2017)  </li>
-</ul>
+
 </ul>
 
 <br>
@@ -37,6 +36,6 @@ I currently work for <a href="https://en.m.wikipedia.org/wiki/Chegg" target="_bl
 
           
 <ul>
-<li><i class="fab fa-spotify"></i> artist : <a href="https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6?si=PdMImgOPQxaMKfMnqt_jvA" target="_blank"> @Neffex</a> ,  <a href="https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb?si=b__t86NvQIKs1lH1Zq1taQ" target="_blank"> @Ritviz</a></li>
+<li><i class="fab fa-spotify"></i> : <a href="https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6?si=PdMImgOPQxaMKfMnqt_jvA" target="_blank"> @Neffex</a> ,  <a href="https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb?si=b__t86NvQIKs1lH1Zq1taQ" target="_blank"> @Ritviz</a></li>
 <li> <i class="far fa-play-circle"></i> :  <a href="https://g.co/kgs/BsnZ8Y" target="_blank">Kiss the Rain @Yiruma </a></li>
-<li> Roasting <i class="fab fa-youtube"></i> :  <a href="https://m.youtube.com/channel/UCheaweRtxybz4jrCLXw-n7Q" target="_blank">@Duhan</a>, <a href="https://m.youtube.com/user/AddictedA1" target="_blank">@Carry</a> </li></ul>
+<li> <i class="fab fa-youtube"></i> :  <a href="https://m.youtube.com/channel/UCheaweRtxybz4jrCLXw-n7Q" target="_blank">@Duhan</a>, <a href="https://m.youtube.com/user/AddictedA1" target="_blank">@Carry</a> </li></ul>

@@ -32,10 +32,10 @@ I currently work for <a href="https://en.m.wikipedia.org/wiki/Chegg" target="_bl
 
 <br>
 
-##### ＊✿ **My Favorite** ＊✿
+##### ＊✿ **My Favorite Artists** ＊✿
 
           
-<ul>
-<li><i class="fab fa-spotify"></i> : <a href="https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6?si=PdMImgOPQxaMKfMnqt_jvA" target="_blank"> @Neffex</a> ,  <a href="https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb?si=b__t86NvQIKs1lH1Zq1taQ" target="_blank"> @Ritviz</a></li>
-<li> <i class="far fa-play-circle"></i> :  <a href="https://g.co/kgs/BsnZ8Y" target="_blank">Kiss the Rain @Yiruma </a></li>
-<li> <i class="fab fa-youtube"></i> :  <a href="https://m.youtube.com/channel/UCheaweRtxybz4jrCLXw-n7Q" target="_blank">@Duhan</a>, <a href="https://m.youtube.com/user/AddictedA1" target="_blank">@Carry</a> </li></ul>
+<ul style="list-style: none;">
+<li><i class="fab fa-spotify"></i> :   <a href="https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6?si=PdMImgOPQxaMKfMnqt_jvA" target="_blank"> @Neffex</a> ,  <a href="https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb?si=b__t86NvQIKs1lH1Zq1taQ" target="_blank"> @Ritviz</a></li>
+<li> <i class="far fa-play-circle"></i> :    <a href="https://g.co/kgs/BsnZ8Y" target="_blank">Kiss the Rain @Yiruma </a></li>
+<li> <i class="fab fa-youtube"></i> :    <a href="https://m.youtube.com/channel/UCheaweRtxybz4jrCLXw-n7Q" target="_blank">@Duhan</a>, <a href="https://m.youtube.com/user/AddictedA1" target="_blank">@Carry</a> </li></ul>

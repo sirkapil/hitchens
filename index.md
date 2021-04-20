@@ -30,7 +30,3 @@ I currently work for <a href="https://en.m.wikipedia.org/wiki/Chegg" target="_bl
 
 <li> <i class="fab fa-youtube"></i> :    <a href="https://youtube.com/channel/UCtlBn_OuFGMYV-dIDJSnQPQ" target="_blank">  @Vilen</a> , <a href="https://youtube.com/channel/UCtpDorOuxwQ1URGQ0WLIXmQ" target="_blank"> @Dino James</a> </li>
 </ul>
-
-
-
-<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_H1IYxAxUmlHnyD" async> </script> </form>

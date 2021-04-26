@@ -19,8 +19,10 @@ Acc No.    :   39957582094
 IFSC code  :   SBIN0002433
 Swift Code :   SBININBB556
 ```
+
 or via paypal
 
 paypal username:  ```@kapilchaudhary```
+
 
 Every small contribution will be highly appreciated.

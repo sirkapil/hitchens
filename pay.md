@@ -3,6 +3,8 @@ layout: post
 title: Support Kapil
 ---
 
+You can support me via UPI, Bank transfers or Paypal.
+
 + **UPI (for Indians only)**
 ```
 UPI ID: heykapil@ybl
@@ -30,8 +32,11 @@ Swift Code: SBININBB556
 
 + **PayPal**
 
-> Paypal username:``` @kapilchaudhary ```
-> Paypal.me link: [here](https://paypal.me/kapilchaudhary)
+```
+Paypal username: @kapilchaudhary
+```
+
+```Paypal.me link:``` [here](https://paypal.me/kapilchaudhary)
 
 
 

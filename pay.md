@@ -1,33 +1,34 @@
 ---
 layout: post
-title: Support Kapil
+title: Pay Kapil
 ---
 
-You can support me via UPI, Bank transfers or Paypal.
+you can support me via UPI, Bank transfers or Paypal.
 
 + **UPI (for Indians only)**
+
 ```
-UPI ID: heykapil@ybl
+UPI ID:      heykapil@ybl
 ```
 
 ```
-Phonepe/Gpay: 8178217233
+Phonepe/Gpay:  8178217233
 ```
 
 
 + **Bank Transfers to**
 
 ```
-Name: KAPIL CHAUDHARY
+Name:        KAPIL CHAUDHARY
 ```
 ```
-Acc No.:   39957582094
+Account No.: 39957582094
 ```
 ```
-IFSC code: SBIN0002433
+IFSC code:   SBIN0002433
 ```
 ```
-Swift Code: SBININBB556
+Swift Code:  SBININBB556
 ```
 
 + **PayPal**
@@ -35,8 +36,6 @@ Swift Code: SBININBB556
 ```
 Paypal username: @kapilchaudhary
 ```
-
-```Paypal.me link:``` [here](https://paypal.me/kapilchaudhary)
 
 
 

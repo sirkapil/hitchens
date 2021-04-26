@@ -3,26 +3,29 @@ layout: page
 title: Pay kapil
 ---
 
-## India
+#### India
 If you are resident of india then you can support me via UPI, Netbanking or bank transfer to my account.
 
 
-+UPI ID       : ```heykapil@ybl```
++ UPI ID       : ```heykapil@ybl```
 
-+Phonepe/Gpay : ```8178217233```
-
-
-## International
-You can support me via Western Union or any other wired transfer to my bank account.
-
-+Name       :   ```KAPIL CHAUDHARY```
-+Acc No.    :   ```39957582094```
-+IFSC code  :   ```SBIN0002433```
-+Swift Code :   ```SBININBB556```
++ Phonepe/Gpay : ```8178217233```
 
 
-+Paypal username:  ```@kapilchaudhary```
-+Paypal.me Link : [https://paypal.me/kapilchaudhary](https://paypal.me/kapilchaudhary)
+#### International
+If you are outside india, you can support me via Paypal or Western Union (or any other wired transfer to my bank account).
+
+##### Bank Transfers to
+
++ Name       :   ```KAPIL CHAUDHARY```
++ Acc No.    :   ```39957582094```
++ IFSC code  :   ```SBIN0002433```
++ Swift Code :   ```SBININBB556```
+
+##### PayPal 
+
++ Paypal username:  ```@kapilchaudhary```
++ Paypal.me Link : [https://paypal.me/kapilchaudhary](https://paypal.me/kapilchaudhary)
 
 
-Every small contribution will be highly appreciated.
+**Every contribution is highly appreciated.**

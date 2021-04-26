@@ -3,12 +3,12 @@ layout: post
 title: Pay Kapil
 ---
 
-you can support me via UPI, Bank transfers or Paypal.
+You can support me via various payment methods eg. UPI, Bank transfers or Paypal.
 
 + **UPI (for Indians only)**
 
 ```
-UPI ID:      heykapil@ybl
+UPI ID:        heykapil@ybl
 ```
 
 ```
@@ -25,6 +25,9 @@ Name:        KAPIL CHAUDHARY
 Account No.: 39957582094
 ```
 ```
+Bank:        State Bank of India
+```
+```
 IFSC code:   SBIN0002433
 ```
 ```
@@ -39,4 +42,4 @@ Paypal username: @kapilchaudhary
 
 
 
-**Every contribution is highly appreciated.**
++ **Every contribution will be highly appreciated.**

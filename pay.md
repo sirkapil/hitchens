@@ -2,16 +2,22 @@
 layout: page
 title: Pay kapil
 ---
+## India
+You can support me via UPI, Netbanking or bank transfer to account.
 
-You can pay me via various payment options. 
+UPI id       : heykapil@ybl
+Phonepe/Gpay : 8178217233
 
-When payment is successful, capture a screenshot and send it to my WhatsApp <a href="https://api.whatsapp.com/send?phone=918178217233">(+91)8178217233<a>
- 
-#### 1. UPI, Cards and NetBanking
+## International
+You can support me via Western Union or any other wired transfer to my bank account.
 
-<form> <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_H1IYxAxUmlHnyD" async> </script> </form>
+Name       :   KAPIL CHAUDHARY
+Acc No.    :   39957582094
+IFSC code  :   SBIN0002433
+Swift Code :   SBININBB556
 
-#### 2. Paypal
+or via paypal
 
-- via paypal username: *@kapilchaudhary*
-- via paypal.me link: <a href ="//paypal.me/kapilchaudhary"> paypal.me/kapilchaudhary </a>
+paypal username:  @kapilchaudhary
+
+Every small contribution will be highly appreciated.

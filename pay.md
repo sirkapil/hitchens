@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Pay kapil
+layout: post
+title: Support Kapil
 ---
 
 #### India

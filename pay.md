@@ -7,6 +7,14 @@ You can support me via various payment methods eg. UPI, Bank transfers or Paypal
 
 + **UPI (for Indians only)**
 
+++ Pay Now via UPI App (Paytm/PhonePe/Gpay etc.)
+
+<a href="upi://pay?pa=heykapil@ybl&amp;pn=Kapil Chaudhary &amp;cu=INR" class="upi-pay1">Link 1</a>
+
+<a href="upi://pay?pa=kapilin@ibl&amp;pn=Kapil Chaudhary &amp;cu=INR" class="upi-pay1">Link 2</a>
+
+If the links doesn't work then you can pay manually to below UPI ID or number.
+
 ```
 UPI ID:        heykapil@ybl
 ```

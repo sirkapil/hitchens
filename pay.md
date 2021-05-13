@@ -7,7 +7,7 @@ You can support me via various payment methods eg. UPI, Bank transfers or Paypal
 
 + **UPI (for Indians only)**
 
- + + Via any UPI App (Paytm/PhonePe/Gpay etc.)
+   + Via any UPI App (Paytm/PhonePe/Gpay etc.)
    + <a href="upi://pay?pa=k-c@sbi&amp;pn=Kapil-Chaudhary&amp;cu=INR" class="upi-pay1">Pay Now !</a>
    + <a href="upi://pay?pa=kapilin@ibl&amp;pn=Kapil-Chaudhary&amp;cu=INR" class="upi-pay1">Pay Now !</a>
 
